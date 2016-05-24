@@ -20,7 +20,7 @@ Installation
 ============
 
 ```php
-    composer require "haotx/swagger-lume 1.*"
+    composer require "seldatdirect/swagger-lume 1.*"
 ```
 
 
